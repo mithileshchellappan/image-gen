@@ -1,0 +1,2186 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.page-content-n-f-ts-screen-desktop {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-frame250 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-line2 {
+  width: 1289px;
+  height: 0px;
+  position: relative;
+  align-self: stretch;
+  margin-bottom: 10px;
+}
+.page-frame247 {
+  width: 1050px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-tabs {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.page-tab {
+  height: 60px;
+  display: flex;
+  padding: 0 30px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(133, 133, 132, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-right: 0px;
+  justify-content: center;
+}
+.page-text {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 139.9999976158142%;
+  margin-right: 16px;
+  margin-bottom: 0;
+}
+.page-frame81 {
+  display: flex;
+  padding: 5px 10px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(133, 133, 132, 1);
+}
+.page-text002 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-tab1 {
+  height: 60px;
+  display: flex;
+  padding: 0 30px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.page-text004 {
+  color: var(--dl-color-default-captionlabeltext);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 139.9999976158142%;
+  margin-right: 16px;
+  margin-bottom: 0;
+}
+.page-frame811 {
+  display: flex;
+  padding: 5px 10px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: var(--dl-color-default-backgroundsecondary);
+}
+.page-text006 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-cards-section {
+  display: flex;
+  padding: 60px 0 80px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-backgroundsecondary);
+}
+.page-n-f-t-cards-row {
+  width: 1050px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 30px;
+}
+.page-n-f-t-card {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text008 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 140%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset122 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text009 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 140%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text010 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text012 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text014 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text016 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card01 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image01 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder01 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info01 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info01 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text018 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 140%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name01 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar01 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12201 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text019 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 140%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info01 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price01 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text020 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text022 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid01 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text024 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text026 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card02 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image02 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder02 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info02 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info02 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text028 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name02 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar02 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12202 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder02 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text029 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info02 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price02 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text030 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text032 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid02 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text034 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text036 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-cards-row1 {
+  width: 1050px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 30px;
+}
+.page-n-f-t-card03 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image03 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder03 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info03 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info03 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text038 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name03 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar03 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12203 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text040 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info03 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price03 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text042 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text044 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid03 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text046 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text048 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card04 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image04 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder04 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info04 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info04 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text050 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name04 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar04 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12204 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder04 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text052 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info04 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price04 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text054 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text056 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid04 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text058 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text060 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card05 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image05 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder05 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info05 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info05 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text062 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name05 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar05 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12205 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text064 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info05 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price05 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text066 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text068 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid05 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text070 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text072 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-cards-row2 {
+  width: 1050px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 30px;
+}
+.page-n-f-t-card06 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image06 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder06 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info06 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info06 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text074 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name06 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar06 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12206 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder06 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text076 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info06 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price06 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text078 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text080 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid06 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text082 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text084 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card07 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image07 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder07 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info07 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info07 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text086 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name07 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar07 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12207 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text088 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info07 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price07 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text090 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text092 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid07 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text094 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text096 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card08 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image08 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder08 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info08 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info08 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text098 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name08 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar08 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12208 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder08 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text100 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info08 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price08 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text102 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text104 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid08 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text106 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text108 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-cards-row3 {
+  width: 1050px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-n-f-t-card09 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image09 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder09 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info09 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info09 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text110 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name09 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar09 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12209 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text112 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info09 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price09 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text114 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text116 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid09 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text118 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text120 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card10 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image10 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder10 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info10 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info10 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text122 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name10 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar10 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12210 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text124 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info10 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price10 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text126 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text128 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid10 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text130 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text132 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-n-f-t-card11 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.page-image11 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.page-image-placeholder11 {
+  width: auto;
+  height: 295px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px 20px 0 0;
+}
+.page-n-f-t-info11 {
+  display: flex;
+  padding: 20px 30px 25px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.page-artst-info11 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 25px;
+  flex-direction: column;
+}
+.page-text134 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+.page-artist-avatar-name11 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.page-asset12211 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-avatar-placeholder11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.page-text136 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-additional-info11 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page-price11 {
+  width: 135px;
+  display: flex;
+  padding: 0 21px 0 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.page-text138 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text140 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.page-highest-bid11 {
+  width: 135px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-text142 {
+  color: rgba(133, 133, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 110.00000238418579%;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.page-text144 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
